@@ -9,10 +9,10 @@
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: clear-autoptimize-cache-automatically
- * Copyright 2022-2024 VillaTheme.com. All rights reserved.
+ * Copyright 2022-2025 VillaTheme.com. All rights reserved.
  * Requires Plugins: autoptimize
  * Requires at least: 5.0
- * Tested up to: 6.5
+ * Tested up to: 6.7
  * Requires PHP: 7.0
  **/
 if ( ! defined( 'ABSPATH' ) ) {
