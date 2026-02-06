@@ -3,7 +3,7 @@ Contributors: villatheme, mrt3vn
 Donate link: http://www.villatheme.com/donate
 Tags: autoptimize, clear autoptimize cache, clear cache automatically
 Requires at least: 5.0
-Tested up to: 6.5
+Tested up to: 6.8
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -19,7 +19,33 @@ Clear Autoptimize Cache Automatically is a very lightweight add-on for Autoptimi
 
 ### Important Notice:
 
-- This plugin requires Autoptimize plugin By Frank Goossens (futtta) to run
+- This plugin requires the Autoptimize plugin By Frank Goossens (futtta) to run
+
+- Website speed is crucial in today’s online world. Slow loading times can negatively impact user experience and search engine rankings, leading to decreased traffic and conversions. That’s why optimizing your website’s performance is essential for its success. One tool that can help you achieve this is the Clear Autoptimize Cache Automatically plugin.
+
+&#9658; **What are Autoptimize and Cache**?
+
+Autoptimize is a popular optimization plugin for WordPress that optimizes website performance by optimizing the HTML, CSS, and JavaScript code. It also minifies and concatenates these files to reduce their size, which leads to faster loading times. However, the plugin stores the optimized files in the cache to avoid processing the same files repeatedly, resulting in faster page loads.
+
+The cache is a temporary storage location that stores frequently accessed data to reduce load times. When a user visits a website, their browser downloads data from the server and stores it in the cache. The next time the user visits the same website, the browser can retrieve the data from the cache, reducing page load times.
+
+&#9658; **Why Clear Autoptimize Cache**?
+
+- While cache can speed up your website, it can also become outdated over time. When you update your website’s content, the cached files become obsolete, and the browser will continue to use the cached data. This can lead to display errors and other issues that negatively impact user experience. That’s why it’s important to clear the cache periodically to ensure that the website is displaying the latest content.
+
+- However, clearing the cache manually can be time-consuming and tedious, especially if you have to do it frequently. This is where the Clear Autoptimize Cache Automatically plugin comes in. It’s a lightweight and easy-to-use plugin that automatically clears the Autoptimize cache when you make changes to your website’s content.
+
+&#9658; **Benefits of Using Clear Autoptimize Cache Automatically**
+
+- Improved Performance: Clearing the Autoptimize cache ensures that your website is displaying the latest content, improving user experience and search engine rankings.
+
+- Time Savings: The plugin saves you time and effort by automatically clearing the cache whenever you make changes to your website’s content.
+
+- Customizable: You can customize the plugin to exclude specific pages or URLs from cache clearing, ensuring that important pages or sections of your website are not affected.
+
+- User-Friendly: The plugin is user-friendly and easy to install and configure, even for non-technical users.
+
+Optimizing your website’s performance is crucial for its success. Clear Autoptimize Cache Automatically is a lightweight and easy-to-use plugin that automatically clears the Autoptimize cache whenever you make changes to your website’s content. This ensures that your website is displaying the latest content, improving user experience and search engine rankings. The plugin is customizable and user-friendly, making it an excellent tool for website owners who want to improve their site’s performance without spending a lot of time or effort. Try Clear Autoptimize Cache Automatically today and take the first step towards improving your website’s performance.
 
 ### FEATURES
 
@@ -28,6 +54,12 @@ Clear Autoptimize Cache Automatically is a very lightweight add-on for Autoptimi
 - Option to automatically clear Autoptimize cache after a specific interval regardless of current cache size. It supports the interval in minute, hour or day.
 
 - Support execution link - an URL with a secret key - which when accessed the Autoptimize cache will be immediately cleared.
+
+- Lightweight: The plugin is lightweight and won’t slow down your website’s performance.
+
+- Easy to Use: Clear Autoptimize Cache Automatically is easy to install and configure, even for non-technical users.
+
+**Note**: You can use the 3 first methods above at the same time.
 
 ### MAY BE YOU NEED
 
@@ -152,6 +184,12 @@ Clear Autoptimize Cache Automatically is a very lightweight add-on for Autoptimi
 1. Setting page
 
 == Changelog ==
+**1.0.5 - 2025.11.25**/
+- Fixed: PHP Warning "Undefined array key REQUEST_METHOD" when running in CLI/Cron
+
+**1.0.4 - 2025.03.29**/
+– Updated: Update support file
+- Updated: Compatible with WP 6.7
 
 /**1.0.3 - 2024.06.03**/
 – Updated: Update security

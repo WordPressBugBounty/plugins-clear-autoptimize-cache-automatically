@@ -1,4 +1,11 @@
-/**1.0.3 - 2024.06.07**/
+**1.0.5 - 2025.11.25**/
+- Fixed: PHP Warning "Undefined array key REQUEST_METHOD" when running in CLI/Cron
+
+**1.0.4 - 2025.03.29**/
+– Updated: Update support file
+- Updated: Compatible with WP 6.7
+
+/**1.0.3 - 2024.06.03**/
 – Updated: Update security
 
 /**1.0.2 - 2024.04.18**/
