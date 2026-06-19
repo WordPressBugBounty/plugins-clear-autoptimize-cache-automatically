@@ -3,16 +3,16 @@
  * Plugin Name: Clear Autoptimize Cache Automatically
  * Plugin URI: https://villatheme.com/extensions/clear-autoptimize-cache-automatically/
  * Description: Automatically clear Autoptimize cache by cache size or at a specific time of selected days
- * Version: 1.0.5
+ * Version: 1.0.6
  * Author: VillaTheme(villatheme.com)
  * Author URI: https://villatheme.com
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: clear-autoptimize-cache-automatically
- * Copyright 2022-2025 VillaTheme.com. All rights reserved.
+ * Copyright 2022-2026 VillaTheme.com. All rights reserved.
  * Requires Plugins: autoptimize
  * Requires at least: 5.0
- * Tested up to: 6.8
+ * Tested up to: 7.0
  * Requires PHP: 7.0
  **/
 
@@ -20,7 +20,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'VICACA_VERSION', '1.0.4' );
+define( 'VICACA_VERSION', '1.0.6' );
 include_once( ABSPATH . 'wp-admin/includes/plugin.php' );
 define( 'VICACA_DIR', plugin_dir_path( __FILE__ ) );
 define( 'VICACA_INCLUDES', VICACA_DIR . "includes" . DIRECTORY_SEPARATOR );

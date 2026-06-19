@@ -3,7 +3,7 @@ Contributors: villatheme, mrt3vn
 Donate link: http://www.villatheme.com/donate
 Tags: autoptimize, clear autoptimize cache, clear cache automatically
 Requires at least: 5.0
-Tested up to: 6.8
+Tested up to: 7.0
 Requires PHP: 7.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -184,6 +184,9 @@ Optimizing your website’s performance is crucial for its success. Clear Autopt
 1. Setting page
 
 == Changelog ==
+/**1.0.6 - 2026.06.19**/
+- Updated: VillaTheme support
+
 **1.0.5 - 2025.11.25**/
 - Fixed: PHP Warning "Undefined array key REQUEST_METHOD" when running in CLI/Cron
 
