@@ -1,10 +1,10 @@
 === Clear Autoptimize Cache Automatically ===
 Contributors: villatheme, mrt3vn
-Donate link: http://www.villatheme.com/donate
+Donate link: https://www.villatheme.com/donate
 Tags: autoptimize, clear autoptimize cache, clear cache automatically
 Requires at least: 5.0
-Tested up to: 7.0
-Requires PHP: 7.0
+Tested up to: 7.1
+Requires PHP: 7.4
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 Stable tag: trunk
@@ -21,7 +21,7 @@ Clear Autoptimize Cache Automatically is a very lightweight add-on for Autoptimi
 
 - This plugin requires the Autoptimize plugin By Frank Goossens (futtta) to run
 
-- Website speed is crucial in today’s online world. Slow loading times can negatively impact user experience and search engine rankings, leading to decreased traffic and conversions. That’s why optimizing your website’s performance is essential for its success. One tool that can help you achieve this is the Clear Autoptimize Cache Automatically plugin.
+- Website speed is crucial in today's online world. Slow loading times can negatively impact user experience and search engine rankings, leading to decreased traffic and conversions. That's why optimizing your website's performance is essential for its success. One tool that can help you achieve this is the Clear Autoptimize Cache Automatically plugin.
 
 &#9658; **What are Autoptimize and Cache**?
 
@@ -31,21 +31,21 @@ The cache is a temporary storage location that stores frequently accessed data t
 
 &#9658; **Why Clear Autoptimize Cache**?
 
-- While cache can speed up your website, it can also become outdated over time. When you update your website’s content, the cached files become obsolete, and the browser will continue to use the cached data. This can lead to display errors and other issues that negatively impact user experience. That’s why it’s important to clear the cache periodically to ensure that the website is displaying the latest content.
+- While cache can speed up your website, it can also become outdated over time. When you update your website's content, the cached files become obsolete, and the browser will continue to use the cached data. This can lead to display errors and other issues that negatively impact user experience. That's why it's important to clear the cache periodically to ensure that the website is displaying the latest content.
 
-- However, clearing the cache manually can be time-consuming and tedious, especially if you have to do it frequently. This is where the Clear Autoptimize Cache Automatically plugin comes in. It’s a lightweight and easy-to-use plugin that automatically clears the Autoptimize cache when you make changes to your website’s content.
+- However, clearing the cache manually can be time-consuming and tedious, especially if you have to do it frequently. This is where the Clear Autoptimize Cache Automatically plugin comes in. It's a lightweight and easy-to-use plugin that automatically clears the Autoptimize cache when you make changes to your website's content.
 
 &#9658; **Benefits of Using Clear Autoptimize Cache Automatically**
 
 - Improved Performance: Clearing the Autoptimize cache ensures that your website is displaying the latest content, improving user experience and search engine rankings.
 
-- Time Savings: The plugin saves you time and effort by automatically clearing the cache whenever you make changes to your website’s content.
+- Time Savings: The plugin saves you time and effort by automatically clearing the cache whenever you make changes to your website's content.
 
 - Customizable: You can customize the plugin to exclude specific pages or URLs from cache clearing, ensuring that important pages or sections of your website are not affected.
 
 - User-Friendly: The plugin is user-friendly and easy to install and configure, even for non-technical users.
 
-Optimizing your website’s performance is crucial for its success. Clear Autoptimize Cache Automatically is a lightweight and easy-to-use plugin that automatically clears the Autoptimize cache whenever you make changes to your website’s content. This ensures that your website is displaying the latest content, improving user experience and search engine rankings. The plugin is customizable and user-friendly, making it an excellent tool for website owners who want to improve their site’s performance without spending a lot of time or effort. Try Clear Autoptimize Cache Automatically today and take the first step towards improving your website’s performance.
+Optimizing your website's performance is crucial for its success. Clear Autoptimize Cache Automatically is a lightweight and easy-to-use plugin that automatically clears the Autoptimize cache whenever you make changes to your website's content. This ensures that your website is displaying the latest content, improving user experience and search engine rankings. The plugin is customizable and user-friendly, making it an excellent tool for website owners who want to improve their site's performance without spending a lot of time or effort. Try Clear Autoptimize Cache Automatically today and take the first step towards improving your website's performance.
 
 ### FEATURES
 
@@ -55,7 +55,7 @@ Optimizing your website’s performance is crucial for its success. Clear Autopt
 
 - Support execution link - an URL with a secret key - which when accessed the Autoptimize cache will be immediately cleared.
 
-- Lightweight: The plugin is lightweight and won’t slow down your website’s performance.
+- Lightweight: The plugin is lightweight and won't slow down your website's performance.
 
 - Easy to Use: Clear Autoptimize Cache Automatically is easy to install and configure, even for non-technical users.
 
@@ -85,7 +85,7 @@ Optimizing your website’s performance is crucial for its success. Clear Autopt
 
 [Checkout Upsell Funnel for WooCommerce](hhtps://wordpress.org/plugins/checkout-upsell-funnel-for-woo/)
 
-[ChinaDS – Tmall-Taobao Dropshipping for WooCommerce](hhtps://wordpress.org/plugins/chinads-dropshipping-taobao-woocommerce/)
+[ChinaDS - Tmall-Taobao Dropshipping for WooCommerce](hhtps://wordpress.org/plugins/chinads-dropshipping-taobao-woocommerce/)
 
 [COMPE - WooCommerce Compare Products](hhtps://wordpress.org/plugins/compe-woo-compare-products/)
 
@@ -149,7 +149,7 @@ Optimizing your website’s performance is crucial for its success. Clear Autopt
 
 [Sales Countdown Timer](hhtps://wordpress.org/plugins/sales-countdown-timer/)
 
-[SUBRE – Product Subscription for WooCommerce - Recurring Payments](hhtps://wordpress.org/plugins/subre-product-subscription-for-woo/)
+[SUBRE - Product Subscription for WooCommerce - Recurring Payments](hhtps://wordpress.org/plugins/subre-product-subscription-for-woo/)
 
 [Suggestion Engine for WooCommerce](hhtps://wordpress.org/plugins/woo-suggestion-engine/)
 
@@ -159,7 +159,7 @@ Optimizing your website’s performance is crucial for its success. Clear Autopt
 
 [W2S - Migrate WooCommerce to Shopify](hhtps://wordpress.org/plugins/w2s-migrate-woo-to-shopify/)
 
-[WebPOS – Point of Sale for WooCommerce](hhtps://wordpress.org/plugins/webpos-point-of-sale-for-woocommerce/)
+[WebPOS - Point of Sale for WooCommerce](hhtps://wordpress.org/plugins/webpos-point-of-sale-for-woocommerce/)
 
 [WordPress Lucky Wheel - Spin a Sale](hhtps://wordpress.org/plugins/wp-lucky-wheel/)
 
@@ -175,8 +175,8 @@ Optimizing your website’s performance is crucial for its success. Clear Autopt
 == Installation ==
 
 1. Unzip the download package
-1. Upload `clear-autoptimize-cache-automatically` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
+2. Upload `clear-autoptimize-cache-automatically` to the `/wp-content/plugins/` directory
+3. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Frequently Asked Questions ==
 
@@ -184,25 +184,29 @@ Optimizing your website’s performance is crucial for its success. Clear Autopt
 1. Setting page
 
 == Changelog ==
-/**1.0.6 - 2026.06.19**/
+
+2026.08.17 - version 1.0.7
+- Updated: Compatible WooCommerce 11.0
+
+2026.06.19 - version 1.0.6
 - Updated: VillaTheme support
 
-**1.0.5 - 2025.11.25**/
+2025.11.25 - version 1.0.5
 - Fixed: PHP Warning "Undefined array key REQUEST_METHOD" when running in CLI/Cron
 
-**1.0.4 - 2025.03.29**/
-– Updated: Update support file
+2025.03.29 - version 1.0.4
+- Updated: Update support file
 - Updated: Compatible with WP 6.7
 
-/**1.0.3 - 2024.06.03**/
-– Updated: Update security
+2024.06.03 - version 1.0.3
+- Updated: Update security
 
-/**1.0.2 - 2024.04.18**/
-– Updated: Compatible with WP 6.5
-– Updated: Update support class
+2024.04.18 - version 1.0.2
+- Updated: Compatible with WP 6.5
+- Updated: Update support class
 
-/**1.0.1 - 2023.09.19**/
+2023.09.19 - version 1.0.1
 - Fixed: Setting page url at admin bar
 
-/**1.0.0 - 2022.0.0**/
+2022.00.00 - version 1.0.0
 - Released

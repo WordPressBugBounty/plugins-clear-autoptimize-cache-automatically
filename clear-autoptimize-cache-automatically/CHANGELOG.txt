@@ -1,22 +1,27 @@
-/*1.0.6 - 2026.06.19*/
+*** Clear Autoptimize Cache Automatically Changelog ***
+
+2026.08.17 - version 1.0.7
+- Updated: Compatible WooCommerce 11.0
+
+2026.06.19 - version 1.0.6
 - Updated: VillaTheme support
 
-**1.0.5 - 2025.11.25**/
+2025.11.25 - version 1.0.5
 - Fixed: PHP Warning "Undefined array key REQUEST_METHOD" when running in CLI/Cron
 
-**1.0.4 - 2025.03.29**/
-– Updated: Update support file
+2025.03.29 - version 1.0.4
+- Updated: Update support file
 - Updated: Compatible with WP 6.7
 
-/**1.0.3 - 2024.06.03**/
-– Updated: Update security
+2024.06.03 - version 1.0.3
+- Updated: Update security
 
-/**1.0.2 - 2024.04.18**/
-– Updated: Compatible with WP 6.5
-– Updated: Update support class
+2024.04.18 - version 1.0.2
+- Updated: Compatible with WP 6.5
+- Updated: Update support class
 
-/**1.0.1 - 2023.09.19**/
+2023.09.19 - version 1.0.1
 - Fixed: Setting page url at admin bar
 
-/**1.0.0 - 2022.0.0**/
+2022.00.00 - version 1.0.0
 - Released
